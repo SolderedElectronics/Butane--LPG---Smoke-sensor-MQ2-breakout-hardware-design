@@ -176,3 +176,31 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Methane, CNG sensor MQ4 breakout with easyC to Methane--CNG-sensor-MQ4-breakout-with-easyC-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Butane, LPG & Smoke sensor MQ2 breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 443ab60] Updating open source files.
+ 1 file changed, 28 insertions(+)
+https://github.com/SolderedElectronics/Butane--LPG---Smoke-sensor-MQ2-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Slider potentiometer breakout with easyC/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of zips 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Slider potentiometer breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+ - Wrong number of zips 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Capacitive soil sensor/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Laser distance sensor VL53L1X breakout/OUTPUTS/V2.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Methane, CNG sensor MQ4 breakout with easyC/OUTPUTS/V1.1.1: all files are present, commiting...
+Methane--CNG-sensor-MQ4-breakout-with-easyC-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Methane, CNG sensor MQ4 breakout with easyC to Methane--CNG-sensor-MQ4-breakout-with-easyC-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Butane, LPG & Smoke sensor MQ2 breakout/.git/
