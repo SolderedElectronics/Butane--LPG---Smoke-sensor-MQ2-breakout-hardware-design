@@ -2,4 +2,4 @@ SKU: 333102
 Full product name: Butane, LPG & Smoke sensor MQ2 breakout
 Country of origin: Croatia
 HS tariff code: 9027900000
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388668106
